@@ -9,15 +9,6 @@
 </p>
 
 ---
-
-### 🧭 About me
-
-- 🔬 **CERN** (CMS Experiment): software intern. I built an LLM toolkit with agent skills, AI agents and scripts that let agentic AI systems create and run particle physics simulations in **Geant4**.
-- 🤖 **IT Solutions**: Python backend in **FastAPI**, agentic systems in **LangGraph**, RAG with LlamaIndex & LangChain, **AWS Lambda**, vector databases with **SQLAlchemy**.
-- 📡 **Nokia**: object-oriented **C++** for LTE L3 network elements, feature work and refactoring, parameterized & mutation tests in **GTest**.
-- 🎯 Currently focusing on **reinforcement learning** and **LLMs**.
-- 🌌 Outside of code: astrophysics, fantasy books, calisthenics and e-sport.
-
 ### 🛠️ Tech stack
 
 **Languages**<br>
@@ -59,4 +50,3 @@
 | [**Fitness Tracker**](https://github.com/K4mi1ewski/fitness-tracker) | Full-stack app for sport activities & calories with JWT auth and WebSocket updates | Spring Boot · GraphQL · React |
 | [**1-Wire Temperature Monitor**](https://github.com/K4mi1ewski/1-Wire-temperature-app) | Multi-sensor DS18B20 thermometer on the Open1768 (LPC1768) with LCD and UART output | C · Embedded |
 
-<p align="center"><i>Always happy to talk about ML, physics simulations or C++. Feel free to reach out!</i></p>
